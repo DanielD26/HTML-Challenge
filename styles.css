@@ -1,0 +1,28 @@
+hmtl, body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: grey;
+}
+
+.tab {
+    background-color: #FAA02A;
+    border: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+    color:white;
+    float: right;
+    cursor: pointer;
+    margin-right: 1px;
+    padding: 10px;
+    width: 15%;
+}
+
+.tabs {
+    padding-bottom: 0px;
+    margin: 0;
+}
+.header {
+    float: right;
+    background-color: #99cc00;
+    color:white;
+}
